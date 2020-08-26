@@ -1,0 +1,74 @@
+body{
+    background-image:url("https://assets.nflxext.com/ffe/siteui/vlv3/998c1c50-6aaa-4795-ab62-9190a025d529/b9883521-f439-4c16-b5eb-b1719e2fece1/ZA-en-20191203-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+    color: white;
+    font-size: 16px;
+
+}
+
+#container{
+    margin: 30px 90px;
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 6px;
+}
+
+#title{
+    text-align: center;
+    font-family: 'Bowlby One SC', cursive;
+    font-size: 50px;
+    margin: 10px 0px 0px 0px;
+    letter-spacing: 5px;
+}
+
+span{
+    color:red;
+}
+
+#description{
+    text-align: center;
+    font-family: 'Sorts Mill Goudy', serif;
+    font-size: 25px;
+    margin-top: 0px;
+
+}
+
+#survey-form{
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 500px;
+    height: auto;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.box{
+    margin-top: 20px;
+    margin-left: 45px;
+}
+
+#name, #age, #email, #content-type{
+    margin-top: 10px;
+    width: 400px;
+    height: 50px;
+}
+
+#feedback{
+    width: 400px;
+    height: 70px;
+}
+
+#submit{
+    background-color: red;
+    border: none;
+    border-radius: 100px;
+    color: white;
+    padding: 12px 54px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 15px 150px;
+}
+
+#submit:hover{
+    background-color: white;
+    color: red;
+}
