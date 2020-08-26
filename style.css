@@ -27,7 +27,7 @@ span{
     text-align: center;
     font-family: 'Sorts Mill Goudy', serif;
     font-size: 25px;
-    margin-top: 0px;
+    margin-top:0px;
 
 }
 
@@ -53,6 +53,7 @@ span{
 #feedback{
     width: 400px;
     height: 70px;
+    margin-top: 10px;
 }
 
 #submit{
